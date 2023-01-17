@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logicbyjoel
-- 👀 I’m interested in computer vision and networks
-- 🌱 I’m currently learning automation using PowerShell
+- 👀 I’m interested in network engineering
+- 🌱 I’m currently learning local and cloud automation using PowerShell
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me joelgodinez@ieee.org
 
